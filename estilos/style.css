@@ -117,17 +117,18 @@ strong {
     font-size: 1.25rem;
     font-family: var(--fonte-secundaria);
     text-align: center;
-    padding: 24px;
+    padding: 1.5rem;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
+    position: relative;
 }
 
 footer {
-    position: absolute;
+    position: relative;
     bottom: 0;
     right: 0;
     left: 0;
-    width: auto;
+    width: auto; 
 }
 
 .foto {
@@ -154,7 +155,6 @@ footer {
     }
     
     footer {
-        position: absolute;
-
+        position: relative;
     }
 }
