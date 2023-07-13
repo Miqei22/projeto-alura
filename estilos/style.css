@@ -158,5 +158,7 @@ footer {
         position: relative;
     }
 
-
+    .foto {
+        width: 320px;
+    }
 }
