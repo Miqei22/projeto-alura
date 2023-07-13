@@ -133,7 +133,7 @@ footer {
 
 .foto {
     padding: 0% 0% 10% 0%;
-    width: 35%;
+    width: 55%;
 }
 
 @media (max-width: 900px) {
@@ -157,4 +157,6 @@ footer {
     footer {
         position: relative;
     }
+
+
 }
